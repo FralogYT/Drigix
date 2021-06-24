@@ -13,7 +13,7 @@ module.exports = {
             +addField('.mute : rend muet le membre mentionné',true)
             +addField('.kick : expulse le membre mentionné',true)
             +addField('.tempban : banni temporairement un membre',true)
-            +setAuthor('Commandes de Luminarity')
+            +setAuthor('Commandes de Drigix')
             +setFooter('Drigix')
             +setTimestamp())
     },
