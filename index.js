@@ -23,7 +23,7 @@ client.once('ready',() => {
 
 client.on('ready', () => {
     const statuses = [
-        () => `${client.guilds.cache.size} +help`,
+        () => `type +help`,
     ]
     let i = 0
     setInterval(() => {
